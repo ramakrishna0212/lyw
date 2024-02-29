@@ -1,0 +1,79 @@
+*{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+.lyw{
+    margin-left: 42.5%;
+    margin-top: 2.5%;
+    float: left;
+}
+.matter{
+    color: #000;
+    margin-top: 9%;
+    padding-left: 16%;
+    width: 70%;
+    font-size: medium;
+    line-height: 186%;
+}
+.middle{
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+  }
+.btn{
+    background: none;
+    border: 2px solid #000;
+    font-family: "montserrat",sans-serif;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    min-width: 200px;
+    margin: 10px;
+    cursor:pointer;
+    transition: color 0.3s linear;
+    position: relative;
+  }
+.btn:hover{
+    color: #fff;
+  }
+.btn::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    z-index: -10;
+    transition: transform 0.1s;
+    transform-origin: 0 0;
+    transition-timing-function: cubic-bezier(0.5,1.6,0.4,0.7);
+}
+.btn1::before{
+    transform: scaleX(0);
+}
+.btn2::before{
+    transform: scaleY(0);
+}
+.btn1:hover::before{
+    transform: scaleX(1);
+}
+.btn2:hover::before{
+    transform: scaleY(1);
+}
+
+.rights{
+    padding-top: 17%;
+    padding-left: 76%;
+    font-size: x-small;
+    float: right;
+}
+.language{
+    padding-left: 83%;
+    margin-top: 7%;
+    font-size: small;
+}

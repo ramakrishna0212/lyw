@@ -1,0 +1,38 @@
+*{
+   background-color:  rgb(247 247 249);
+}
+.logo {
+    font-size: xxx-large;
+    font-weight: bolder;
+    margin-top: 4%;
+    padding-left: 44%;
+    font-family: sans-serif;
+}
+
+.heading1{
+    padding-left: 3%;
+    font-size: xxx-large;
+    font-family: ui-monospace;
+    padding-top: 3%;
+}
+.container{
+    padding-top: 5%;
+    float: right;
+    padding-bottom: 4%;
+    display: contents;
+}
+.text{
+    margin-top: -16%;
+    margin-left: 36%;
+    font-size: large;
+    float: left;
+    font-family: fangsong;
+    display: contents;
+}
+
+.heading2{
+    padding-left: 3%;
+    font-size: xxx-large;
+    font-family: ui-monospace;
+    padding-top: 11%;
+}

@@ -1,0 +1,44 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  background-image: url("https://lv2-cdn.azureedge.net/twice/a6e4cf5d21aa4e1f82ac572689d2e7b3-08-%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%BC_%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A6%E1%86%B82_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AB.jpg");
+  background-repeat: no-repeat;
+  background-size: 103%;
+}
+.cr0oss{
+  padding-left: 94%;
+  margin-top: 7%;
+}
+.baroption{
+  margin-top: 43%;
+    margin-left: -17px;
+    font-size: larger;
+    letter-spacing: 12px;
+}
+
+.lyw{
+  margin-left: 9.5%;
+    margin-top: -13.5%;
+}
+.sites{
+  padding-left: 22%;
+    margin-top: -41px;
+    font-size: larger;
+    font-weight: 700;
+    float: left;
+}
+
+.rights{
+  padding-left: 76%;
+  font-size: x-small;
+  float: right;
+}
+
+.sites2{
+  padding-left: 83%;
+  margin-top: 2%;
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    float: left;
+}

@@ -1,0 +1,106 @@
+*{
+    font-family:sans-serif;
+}
+.title{
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-left: 42%;
+    margin-top: 2%;
+    margin-bottom: -15%;
+}
+.cross{
+    padding-left: 94%;
+    padding-top: 4%;
+}
+.language{
+    margin-top: 17%;
+    font-size: small;
+    font-weight: 500;
+}
+.sites{
+    padding-left: 24%;
+    padding-top:5%;
+    font-size: small;
+}
+.sites1{
+    padding-left: 75%;
+    margin-top: -20%;
+    font-size: smaller;
+    float: left;
+    line-height: 290%;
+}
+.h{
+    width: 100%;
+    height: 1px;
+    padding-top: 0%;
+}
+.h2{
+    font-size: x-large;
+    width: 100%;
+    height: 1px;
+    padding-top: 18%;
+}
+.h3{
+    font-size: x-large;
+    width: 100%;
+    height: 1px;
+    padding-top: 20%;
+}
+.line{
+    margin-top: -103%;
+    margin-left: 59%;
+    font-size: -webkit-xxx-large;
+    font-weight: bolder;
+}
+
+.line2{
+    margin-top: 65%;
+    margin-left: 59%;
+    font-size: -webkit-xxx-large;
+    font-weight: bolder;
+}
+
+.help{ 
+    padding-top: 48.5%;
+    font-size: small;
+}
+ul {
+    list-style: none;
+}
+
+ul li {
+    top: 0%;
+    display: inline-block;
+    position: relative;
+}
+
+ul li a {
+    margin: 0%;
+    display: block;
+    padding: 20px 25px;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;   
+}
+ul li ul.dropdown {
+    margin-top: -185%;
+    padding-left: 163%;
+    width: 6%;
+    position: absolute;
+    display: none;
+    font-size: larger;
+}
+
+ul li a:hover {
+    margin: 0%;
+}
+
+ul li:hover ul.dropdown {
+    display: block;
+}
+
+.rights{
+    padding-left: 78%;
+    padding-top: 14%;
+    font-size: x-small;
+}
